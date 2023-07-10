@@ -1,0 +1,22 @@
+.container{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+#menu{
+  margin-top: 15px;
+  font-size: large;
+  color: green;
+}
+a{
+  margin-right: 10px;
+  color: white;
+  
+}
+.btn3{
+  border-radius: 10px;
+  width: 70px;
+  height: 25px;
+   
+}
